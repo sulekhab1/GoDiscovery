@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="46263" started-at="2019-09-02T04:45:12Z" finished-at="2019-09-02T04:45:59Z">
+  <suite name="Default suite" duration-ms="47320" started-at="2019-09-03T06:46:06Z" finished-at="2019-09-03T06:46:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="46263" started-at="2019-09-02T04:45:12Z" finished-at="2019-09-02T04:45:59Z">
+    <test name="Default test" duration-ms="47320" started-at="2019-09-03T06:46:06Z" finished-at="2019-09-03T06:46:53Z">
       <class name="TestCases.VerifyTitleDescription">
-        <test-method status="PASS" signature="openDiscoveryPage()[pri:0, instance:TestCases.VerifyTitleDescription@1d057a39]" name="openDiscoveryPage" is-config="true" duration-ms="37967" started-at="2019-09-02T04:45:12Z" finished-at="2019-09-02T04:45:50Z">
+        <test-method status="PASS" signature="openDiscoveryPage()[pri:0, instance:TestCases.VerifyTitleDescription@cc285f4]" name="openDiscoveryPage" is-config="true" duration-ms="41190" started-at="2019-09-03T06:46:06Z" finished-at="2019-09-03T06:46:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openDiscoveryPage -->
-        <test-method status="PASS" signature="verifyRecommended()[pri:0, instance:TestCases.VerifyTitleDescription@1d057a39]" name="verifyRecommended" duration-ms="7017" started-at="2019-09-02T04:45:50Z" finished-at="2019-09-02T04:45:58Z">
+        <test-method status="PASS" signature="verifyRecommended()[pri:0, instance:TestCases.VerifyTitleDescription@cc285f4]" name="verifyRecommended" duration-ms="4862" started-at="2019-09-03T06:46:47Z" finished-at="2019-09-03T06:46:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRecommended -->
-        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:TestCases.VerifyTitleDescription@1d057a39]" name="quitBrowser" is-config="true" duration-ms="1243" started-at="2019-09-02T04:45:58Z" finished-at="2019-09-02T04:45:59Z">
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:TestCases.VerifyTitleDescription@cc285f4]" name="quitBrowser" is-config="true" duration-ms="1240" started-at="2019-09-03T06:46:52Z" finished-at="2019-09-03T06:46:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->

@@ -40,6 +40,7 @@ public class VerifyTitleDescription {
 		videos.scrollToMyFavorites();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		
+		//Verifying title and description
 		Assert.assertEquals(home.getTitle(), videos.getTitle());
 		System.out.println("Title Verification successfull");
 		Assert.assertEquals(home.getDescription(), videos.getDescription());
